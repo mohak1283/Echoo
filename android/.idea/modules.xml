@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+9/android/firebase_core.iml" filepath="$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+9/android/firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.0.7/android/firebase_database.iml" filepath="$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.0.7/android/firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.6/android/firebase_storage.iml" filepath="$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.6/android/firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.6/android/flutter_tts.iml" filepath="$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.6/android/flutter_tts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+5/android/shared_preferences.iml" filepath="$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+5/android/shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/speech_recognition-0.3.0+1/android/speech_recognition.iml" filepath="$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/speech_recognition-0.3.0+1/android/speech_recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.3/android/url_launcher.iml" filepath="$PROJECT_DIR$/../../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.3/android/url_launcher.iml" />
+    </modules>
+  </component>
+</project>
